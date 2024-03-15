@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="center">Currently, I'm in Third year of Computer Science Engineering with Iot, Cyber Security, Block Chain Technology at Chaitanya Bharathi Institute of Technology (CBIT). I love solving problems using programming and I'm very interested in Software Engineering, Web Development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
+<p align="center">Currently, I'm in Fourth year of Computer Science Engineering with Iot, Cyber Security, Block Chain Technology at Chaitanya Bharathi Institute of Technology (CBIT). I love solving problems using programming and I'm very interested in Software Engineering, Web Development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
 <br>
 
